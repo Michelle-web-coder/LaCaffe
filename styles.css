@@ -1,0 +1,7254 @@
+/* / */
+
+box-sizing: border-box;
+
+position: relative;
+width: 1630px;
+height: 9249.69px;
+
+background: #444444;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 2px;
+
+
+/* Home • Desktop */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: relative;
+width: 1440px;
+height: 9049.69px;
+left: 100px;
+top: 100px;
+
+
+
+/* Navbar / 1 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 64px;
+
+width: 1440px;
+height: 72px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 1312px;
+height: 40px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+margin: 0 auto;
+width: 80px;
+height: 40px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Company Logo */
+
+width: 84px;
+height: 36px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo-wide 1 */
+
+position: absolute;
+width: 70px;
+height: 36px;
+left: calc(50% - 70px/2 - 0.33px);
+top: calc(50% - 36px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 72.59%;
+right: 0.54%;
+top: 30.21%;
+bottom: 25.5%;
+
+background: #000000;
+
+/* Prevent generated transform from stretching Card_0 image (#__23) */
+#__23{transform:none !important;object-fit:cover !important;width:100% !important;height:100% !important;}
+
+
+/* Vector */
+
+position: absolute;
+left: 49.04%;
+right: 23.19%;
+top: 31.45%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.51%;
+right: 46.63%;
+top: 30.21%;
+bottom: 25.5%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 69.15%;
+top: 28.45%;
+bottom: 26.59%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.65%;
+right: 76.74%;
+top: 0%;
+bottom: 74.19%;
+
+background: #000000;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 526px;
+height: 40px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Nav links */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 308px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 44px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link text */
+
+width: 44px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 41px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link text */
+
+width: 41px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 43px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link text */
+
+width: 43px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+isolation: isolate;
+
+width: 84px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Nav Link Dropdown */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 84px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Link text */
+
+width: 56px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Chevron Down */
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.76%;
+right: 23.76%;
+top: 36.26%;
+bottom: 34.05%;
+
+background: #000000;
+
+
+/* ----------------------------- */
+/* Animations & Badge removal     */
+/* ----------------------------- */
+
+/* Hide the "Made with Figma" badge inserted by the export tool */
+a[href*="figma.to.website"], a[title="Your website directly from Figma"] {
+	display: none !important;
+}
+
+:root{
+	--accent: #00b894;
+	--anim-dur: 650ms;
+	--easing: cubic-bezier(.2,.9,.3,1);
+}
+
+/* Generic reveal animation for major sections */
+.reveal{
+	opacity: 0;
+	transform: translateY(20px) scale(.995);
+	transition: opacity var(--anim-dur) var(--easing), transform calc(var(--anim-dur) * 1.05) var(--easing);
+	will-change: opacity, transform;
+}
+.reveal.visible{
+	opacity: 1;
+	transform: translateY(0) scale(1);
+}
+
+/* apply reveal class to top-level sections */
+#Home_Desktop > div{opacity:0;transform:translateY(20px);}
+#Home_Desktop > div.reveal{opacity:0;transform:translateY(20px);}
+#Home_Desktop > div.reveal.visible{opacity:1;transform:none;}
+
+/* Buttons: subtle press + ripple */
+button{
+	position: relative;
+	overflow: hidden;
+	transition: transform 160ms var(--easing), box-shadow 160ms var(--easing);
+	will-change: transform;
+	cursor: pointer;
+}
+button:focus{outline: none;}
+button.click-press, button:active{transform: scale(.97);}
+
+.ripple-effect{
+	position: absolute;
+	border-radius: 50%;
+	transform: scale(0);
+	pointer-events: none;
+	opacity: 0.9;
+	animation: ripple 650ms cubic-bezier(.2,.9,.3,1);
+}
+@keyframes ripple{
+	to{ transform: scale(4); opacity: 0; }
+}
+
+/* subtle hover elevation */
+button:hover{ box-shadow: 0 6px 20px rgba(16,24,40,0.06); }
+
+/* small utility fade for images */
+.img-fade{opacity:0;transform:translateY(8px);transition:opacity 750ms var(--easing),transform 750ms var(--easing);} 
+.img-fade.visible{opacity:1;transform:none}
+
+/* make interactive text a little smoother */
+a, p, span, h1, h2, h3, h4{transition: color 220ms var(--easing), opacity 220ms var(--easing)}
+
+/* Accessibility: reduce motion */
+@media (prefers-reduced-motion: reduce){
+	.reveal, .ripple-effect, button{transition: none !important; animation: none !important;}
+}
+
+
+/* Menu */
+
+box-sizing: border-box;
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 16px;
+
+position: absolute;
+display: none;
+width: 106px;
+height: 152px;
+left: 0px;
+top: 32px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Interaction enhancements: stronger hover/floating animations */
+:root{
+	--accent: #0ace82;
+	--anim-dur: 420ms;
+	--easing: cubic-bezier(.2,.9,.2,1);
+}
+
+/* Nav link float on hover */
+#Nav_links > div{
+	transition: transform 220ms var(--easing), filter 220ms var(--easing);
+	will-change: transform;
+	cursor: pointer;
+}
+#Nav_links > div:hover{ transform: translateY(-6px); }
+#Nav_links > div:active{ transform: translateY(-2px) scale(.99); }
+#Nav_links .text{ display: inline-block; }
+
+/* Images: subtle lift + shadow on hover */
+img.img-fade{
+	transition: transform var(--anim-dur) var(--easing), box-shadow var(--anim-dur) var(--easing), opacity var(--anim-dur) var(--easing);
+	will-change: transform, opacity;
+}
+img.img-fade:hover{
+	transform: translateY(-8px) scale(1.03);
+	box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+}
+
+/* Buttons: hover float and tactile press */
+button{
+	transition: transform 180ms var(--easing), box-shadow 180ms var(--easing);
+	will-change: transform;
+}
+button:hover{ transform: translateY(-4px); }
+button:active{ transform: translateY(-2px) scale(.98); }
+
+@media (prefers-reduced-motion: reduce){
+	#Nav_links > div, img.img-fade, button{ transition: none !important; transform: none !important; }
+}
+
+
+/* Link text */
+
+width: 58px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link text */
+
+width: 58px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link text */
+
+width: 58px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 186px;
+height: 40px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 20px;
+gap: 8px;
+
+width: 80px;
+height: 40px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 40px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 20px;
+gap: 8px;
+
+width: 90px;
+height: 40px;
+
+background: #000000;
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 50px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #FFFFFF;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Header / 145 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 1440px;
+height: 1353px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 112px 64px;
+gap: 80px;
+
+width: 1440px;
+height: 543px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1280px;
+max-width: 1280px;
+height: 319px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 768px;
+max-width: 768px;
+height: 319px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 768px;
+height: 239px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 768px;
+height: 134px;
+
+/* Heading/H1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 120%;
+/* oder 67px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 768px;
+height: 81px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 193px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 88px;
+height: 48px;
+
+background: #000000;
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 40px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #FFFFFF;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 89px;
+height: 48px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 41px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Placeholder Image */
+
+width: 1440px;
+height: 810px;
+
+background: url(coffee wallpaper iphone ☕.jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Layout / 395 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 112px 64px;
+gap: 80px;
+
+width: 1440px;
+height: 978px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1280px;
+max-width: 1280px;
+height: 754px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Section Title */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 768px;
+max-width: 768px;
+height: 149px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 54px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 54px;
+height: 24px;
+
+/* Heading/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 768px;
+height: 109px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 768px;
+height: 58px;
+
+/* Heading/H2 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* identisch mit der Höhe des Felds oder 58px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 768px;
+height: 27px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Component */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1280px;
+height: 525px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1280px;
+height: 525px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 405.33px;
+height: 525px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 405.33px;
+height: 233px;
+
+background: url(Coffee Beans.jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+gap: 24px;
+
+width: 405.33px;
+height: 292px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content Top */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 341.33px;
+height: 180px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 60px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 60px;
+height: 24px;
+
+/* Heading/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 341.33px;
+height: 148px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 341.33px;
+height: 84px;
+
+/* Heading/H4 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 130%;
+/* oder 42px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 341.33px;
+height: 48px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 341.33px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 85px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 53px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron_right */
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 35.46%;
+right: 36.66%;
+top: 25.72%;
+bottom: 25.88%;
+
+background: #000000;
+border: 1px solid #000000;
+
+
+/* Card */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 405.33px;
+height: 525px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 405.33px;
+height: 233px;
+
+background: url(croissant coffee brand ideas.jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+gap: 24px;
+
+width: 405.33px;
+height: 292px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content Top */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 341.33px;
+height: 180px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 54px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 54px;
+height: 24px;
+
+/* Heading/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 341.33px;
+height: 148px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 341.33px;
+height: 84px;
+
+/* Heading/H4 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 130%;
+/* oder 42px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 341.33px;
+height: 48px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 341.33px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 85px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 53px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron_right */
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 35.46%;
+right: 36.66%;
+top: 25.72%;
+bottom: 25.88%;
+
+background: #000000;
+border: 1px solid #000000;
+
+
+/* Card */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 405.33px;
+height: 525px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 405.33px;
+height: 233px;
+
+background: url(three cups filled with ground coffee.jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+gap: 24px;
+
+width: 405.33px;
+height: 292px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content Top */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 341.33px;
+height: 180px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 58px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 58px;
+height: 24px;
+
+/* Heading/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 341.33px;
+height: 148px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 341.33px;
+height: 84px;
+
+/* Heading/H4 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 130%;
+/* oder 42px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 341.33px;
+height: 48px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 341.33px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 85px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 53px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron_right */
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 35.46%;
+right: 36.66%;
+top: 25.72%;
+bottom: 25.88%;
+
+background: #000000;
+border: 1px solid #000000;
+
+
+/* Product / 9 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 112px 64px;
+gap: 80px;
+
+width: 1440px;
+height: 1813.8px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1280px;
+max-width: 1280px;
+height: 1461.8px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 768px;
+max-width: 768px;
+height: 141px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 56px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 56px;
+height: 24px;
+
+/* Heading/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 768px;
+height: 101px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 768px;
+height: 58px;
+
+/* Heading/H2 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* identisch mit der Höhe des Felds oder 58px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 768px;
+height: 27px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 64px;
+
+width: 1280px;
+height: 1240.8px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+width: 1280px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Product */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 394.67px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 394.67px;
+height: 486.4px;
+
+background: url(espresso-shot-in-small-glass-cup-on-saucer--rich-c.png);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 394.67px;
+height: 86px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 27px;
+
+/* Text/Medium/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Price */
+
+width: 394.67px;
+height: 30px;
+
+/* Text/Large/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 30px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Product */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 394.67px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 394.67px;
+height: 486.4px;
+
+background: url(cappuccino-with-latte-art-in-white-cup--top-view--.png);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 394.67px;
+height: 86px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 27px;
+
+/* Text/Medium/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Price */
+
+width: 394.67px;
+height: 30px;
+
+/* Text/Large/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 30px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Product */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 394.67px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 394.67px;
+height: 486.4px;
+
+background: url(aesthetic-latte-with-heart-shaped-latte-art--soft-.png);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 394.67px;
+height: 86px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 27px;
+
+/* Text/Medium/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Price */
+
+width: 394.67px;
+height: 30px;
+
+/* Text/Large/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 30px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+width: 1280px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Product */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 394.67px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 394.67px;
+height: 486.4px;
+
+background: url(iced-coffee-in-clear-glass-with-heart-shaped-ice-c.png);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 394.67px;
+height: 86px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 27px;
+
+/* Text/Medium/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Price */
+
+width: 394.67px;
+height: 30px;
+
+/* Text/Large/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 30px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Product */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 394.67px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 394.67px;
+height: 486.4px;
+
+background: url(caramel-macchiato-with-heart-design--cozy-aestheti.png);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 394.67px;
+height: 86px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 27px;
+
+/* Text/Medium/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Price */
+
+width: 394.67px;
+height: 30px;
+
+/* Text/Large/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 30px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Product */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 394.67px;
+height: 588.4px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Placeholder Image */
+
+width: 394.67px;
+height: 486.4px;
+
+background: url(iced-latte-with-ice-cubes-in-tall-glass--condensat.png);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 394.67px;
+height: 86px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 27px;
+
+/* Text/Medium/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Price */
+
+width: 394.67px;
+height: 30px;
+
+/* Text/Large/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 30px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 127px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 127px;
+height: 48px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 79px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Layout / 536 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1440px;
+height: 720px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1440px;
+height: 720px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content Left */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 112px 80px 112px 64px;
+gap: 32px;
+
+width: 720px;
+height: 720px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 560px;
+max-width: 560px;
+height: 341px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 560px;
+height: 261px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Section Title */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 560px;
+height: 261px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 63px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 63px;
+height: 24px;
+
+/* Heading/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 560px;
+height: 221px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 560px;
+height: 116px;
+
+/* Heading/H2 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* oder 58px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 560px;
+height: 81px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 194px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 101px;
+height: 48px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 53px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 69px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 37px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron_right */
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 35.46%;
+right: 36.66%;
+top: 25.72%;
+bottom: 25.88%;
+
+background: #000000;
+border: 1px solid #000000;
+
+
+/* Placeholder Image */
+
+width: 720px;
+height: 720px;
+min-height: 720px;
+
+background: url(Herunterladen (15).jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Layout / 237 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 112px 64px;
+gap: 80px;
+
+width: 1440px;
+height: 884px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1280px;
+max-width: 1280px;
+height: 660px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Section Title */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 768px;
+max-width: 768px;
+height: 176px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 50px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 50px;
+height: 24px;
+
+/* Heading/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 768px;
+height: 136px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 768px;
+height: 58px;
+
+/* Heading/H2 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* identisch mit der Höhe des Felds oder 58px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 768px;
+height: 54px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 64px;
+
+width: 1280px;
+height: 276px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+width: 1280px;
+height: 276px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 394.67px;
+height: 186px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* browse */
+
+width: 48px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.88%;
+right: 11.85%;
+top: 11.85%;
+bottom: 11.88%;
+
+background: #000000;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 394.67px;
+height: 114px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 42px;
+
+/* Heading/H4 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 130%;
+/* identisch mit der Höhe des Felds oder 42px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 48px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* oder 24px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 394.67px;
+height: 186px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* reorder */
+
+width: 48px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.88%;
+right: 11.85%;
+top: 20.19%;
+bottom: 20.21%;
+
+background: #000000;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 394.67px;
+height: 114px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 42px;
+
+/* Heading/H4 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 130%;
+/* identisch mit der Höhe des Felds oder 42px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 48px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* oder 24px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 394.67px;
+height: 162px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* reorder */
+
+width: 48px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.88%;
+right: 11.85%;
+top: 20.19%;
+bottom: 20.21%;
+
+background: #000000;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 394.67px;
+height: 90px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 394.67px;
+height: 42px;
+
+/* Heading/H4 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 130%;
+/* identisch mit der Höhe des Felds oder 42px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 394.67px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 185px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 88px;
+height: 48px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 40px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 73px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 41px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron_right */
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 35.46%;
+right: 36.66%;
+top: 25.72%;
+bottom: 25.88%;
+
+background: #000000;
+border: 1px solid #000000;
+
+
+/* Layout / 528 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1440px;
+height: 720px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1440px;
+height: 720px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content Left */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 112px 80px 112px 64px;
+gap: 32px;
+
+width: 720px;
+height: 720px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 560px;
+max-width: 560px;
+height: 368px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Section Title */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 560px;
+height: 288px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tagline Wrapper */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 38px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tagline */
+
+width: 38px;
+height: 24px;
+
+/* Heading/Desktop/Tagline */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 560px;
+height: 248px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 560px;
+height: 116px;
+
+/* Heading/Desktop/H2 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* oder 58px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 560px;
+height: 108px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 182px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 89px;
+height: 48px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 41px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 69px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 37px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / chevron-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 34.55%;
+right: 35.77%;
+top: 23.07%;
+bottom: 29.38%;
+
+background: #000000;
+
+
+/* Placeholder Image */
+
+width: 720px;
+height: 720px;
+min-height: 720px;
+
+background: url(Herunterladen (12).jpg);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Testimonial / 17 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 112px 64px;
+gap: 80px;
+
+width: 1440px;
+height: 672.89px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1280px;
+max-width: 1280px;
+height: 448.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Section Title */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 768px;
+max-width: 768px;
+height: 109px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 768px;
+height: 58px;
+
+/* Heading/H2 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* identisch mit der Höhe des Felds oder 58px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 768px;
+height: 27px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1280px;
+height: 259.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1280px;
+height: 259.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+box-sizing: border-box;
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+gap: 24px;
+
+width: 405.33px;
+height: 259.89px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 352px;
+height: 123.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Stars */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 116px;
+height: 18.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Quote */
+
+width: 352px;
+height: 81px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Avatar */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 341.33px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Avatar Image */
+
+width: 48px;
+height: 48px;
+
+background: url(Image.jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Avatar Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 277.33px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Text */
+
+width: 277.33px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 277.33px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+box-sizing: border-box;
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+gap: 24px;
+
+width: 405.33px;
+height: 259.89px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 352px;
+height: 123.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Stars */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 116px;
+height: 18.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Quote */
+
+width: 352px;
+height: 81px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Avatar */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 341.33px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Avatar Image */
+
+width: 48px;
+height: 48px;
+
+background: url(Image.jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Avatar Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 277.33px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Name Surname */
+
+width: 277.33px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 277.33px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+box-sizing: border-box;
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+gap: 24px;
+
+width: 405.33px;
+height: 259.89px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 352px;
+height: 123.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Stars */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 116px;
+height: 18.89px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 18.89px;
+
+background: #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Quote */
+
+width: 352px;
+height: 81px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Avatar */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 341.33px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Avatar Image */
+
+width: 48px;
+height: 48px;
+
+background: url(Image.jpg);
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Avatar Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 277.33px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Text */
+
+width: 277.33px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 277.33px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CTA / 32 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 112px 64px;
+gap: 80px;
+
+width: 1440px;
+height: 1292px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 8;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1280px;
+max-width: 1280px;
+height: 1068px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 768px;
+max-width: 768px;
+height: 250px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 768px;
+height: 136px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 768px;
+height: 58px;
+
+/* Heading/H2 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* identisch mit der Höhe des Felds oder 58px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 768px;
+height: 54px;
+
+/* Text/Medium/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* oder 27px */
+text-align: center;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 513px;
+height: 82px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Form */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 513px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text input */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 8px;
+
+width: 396px;
+height: 48px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Placeholder */
+
+width: 372px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 101px;
+height: 48px;
+
+background: #000000;
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 53px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #FFFFFF;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* By clicking Sign Up you're confirming that you agree with our Terms and Conditions. */
+
+width: 513px;
+height: 18px;
+
+/* Text/Tiny/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 18px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Placeholder Image */
+
+width: 1280px;
+height: 738px;
+
+background: url(Herunterladen (16).jpg);
+border-radius: 0px;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer / 2 / */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 80px 64px;
+gap: 80px;
+
+width: 1440px;
+height: 544px;
+
+background: #FFFFFF;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 9;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 80px;
+
+width: 1280px;
+max-width: 1280px;
+height: 384px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 128px;
+
+width: 1280px;
+height: 248px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Links */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 752px;
+height: 267px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 158px;
+height: 36px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Company Logo */
+
+width: 84px;
+height: 36px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo-wide 1 */
+
+position: absolute;
+width: 70px;
+height: 36px;
+left: calc(50% - 70px/2 - 0.33px);
+top: calc(50% - 36px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 72.59%;
+right: 0.54%;
+top: 30.21%;
+bottom: 25.5%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.04%;
+right: 23.19%;
+top: 31.45%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.51%;
+right: 46.63%;
+top: 30.21%;
+bottom: 25.5%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 69.15%;
+top: 28.45%;
+bottom: 26.59%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.65%;
+right: 76.74%;
+top: 0%;
+bottom: 74.19%;
+
+background: #000000;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 158px;
+height: 225px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Explore */
+
+width: 158px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 158px;
+height: 185px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Menu */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* About */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Order Coffee */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Brew */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 158px;
+height: 225px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Sourcing */
+
+width: 158px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 158px;
+height: 185px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Roasting */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Team */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Craftsmanship */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Beans */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Drinks */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Column */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 158px;
+height: 267px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Seasonal */
+
+width: 158px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 158px;
+height: 227px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Favorites */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Best Sellers */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Connect */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 79px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stay updated on new releases and exclusive offers from LaCaffe. */
+
+width: 158px;
+height: 63px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 158px;
+height: 37px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Subscribe */
+
+width: 158px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Newslatter */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 400px;
+height: 166px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 400px;
+height: 64px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* We respect your privacy. Unsubscribe at any time. */
+
+width: 400px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Thank you for subscribing to LaCaffe. */
+
+width: 400px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Actions */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 400px;
+height: 78px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Form */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 400px;
+height: 48px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 301px;
+height: 48px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 253px;
+height: 24px;
+
+/* Text/Regular/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 24px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Privacy Policy */
+
+width: 400px;
+height: 18px;
+
+/* Text/Tiny/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 18px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Credits */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1280px;
+height: 56px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Divider */
+
+width: 1280px;
+height: 0px;
+
+border: 1px solid #000000;
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 64px;
+
+width: 1280px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Credits */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 589px;
+height: 21px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* © 2024 Relume. All rights reserved. */
+
+width: 220px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Privacy Policy */
+
+width: 87px;
+height: 21px;
+
+/* Text/Small/Link */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-decoration-line: underline;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Terms of Service */
+
+width: 105px;
+height: 21px;
+
+/* Text/Small/Link */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-decoration-line: underline;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cookies Settings */
+
+width: 105px;
+height: 21px;
+
+/* Text/Small/Link */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identisch mit der Höhe des Felds oder 21px */
+text-decoration-line: underline;
+
+color: #000000;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Social Links */
+
+/* Auto-Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+margin: 0 auto;
+width: 168px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Facebook
+
+<ol><li>Facebook</li><li>Social media</li><li>Logo</li><li>Brands</li><li>Digital communication</li><li>Online friends</li></ol>
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 9.35%;
+bottom: 7.32%;
+
+background: #000000;
+
+
+/* Instagram
+
+<ol><li>Social media</li><li>Logo</li><li>Brands</li></ol>
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 13.51%;
+bottom: 11.49%;
+
+background: #000000;
+
+
+/* X
+
+<ol><li>Twitter</li><li>Tweet</li><li>Logo</li><li>Social media</li><li>Brands</li></ol>
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 17.68%;
+bottom: 15.65%;
+
+background: #000000;
+
+
+/* LinkedIn
+
+<ol><li>Logo</li><li>Brands</li><li>Social media </li><li>Networking</li><li>Career development</li><li>Online resume</li><li>Networking community</li><li>B2B networking</li><li>Business connections</li></ol>
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 13.51%;
+bottom: 11.49%;
+
+background: #000000;
+
+
+/* Youtube
+
+<ol><li>Videos</li><li>Logo</li><li>Social media</li><li>Brands</li><li>Video platform</li><li>Online video</li><li>Streaming video</li><li>Play button</li><li>Video content</li></ol>
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Innerhalb Auto-Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.78%;
+
+background: #000000;
